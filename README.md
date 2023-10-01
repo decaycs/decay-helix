@@ -8,7 +8,7 @@
 
 Welcome! This is the decay port for Helix!
 
-![showcase-dark-decay](./assets/dark-decay.png)
+![showcase-dark-decay](./.assets/dark-decay.png)
 
 ## Notes
 
