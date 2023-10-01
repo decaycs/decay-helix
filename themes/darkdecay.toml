@@ -1,10 +1,10 @@
 # Author : Alxhr0
 # The theme uses the dark-decay pallete from : github.com/decaycs
 
-"attribute" = "aqua1"
-"keyword" = { fg = "blue1" }
+"attribute" = "fg0"
+"keyword" = { fg = "purple1" }
 "keyword.directive" = "blue0"
-"namespace" = "aqua1"
+"namespace" = "fg0"
 "punctuation" = "fg0"
 "punctuation.delimiter" = "fg0"
 "operator" = "purple1"
